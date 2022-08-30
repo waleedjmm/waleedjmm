@@ -14,7 +14,7 @@ Waleed Saleem</a></h1>
 - 🤝 I’m available for consultation regarding Data Science for your organization
 
 
-- 📝 I an an avid researcher having published many research papers, which you can find here <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Research Papers</a>
+- 📝 I an an avid researcher having published many research papers, which you can find here <a href="https://github.com/waleedjmm/Research-Papers" target="blank">Research Papers</a>
 
 
 - 🔭 I am a problem solver and find feasible solutions
