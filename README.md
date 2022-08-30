@@ -14,7 +14,7 @@ Waleed Saleem</a></h1>
 - 🤝 I’m available for consultation regarding Data Science for your organization
 
 
-- 📝 I an an avid researcher having piblished many research papers, which you can find in my profile
+- 📝 I an an avid researcher having published many research papers, which you can find here <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Research Papers</a>
 
 
 - 🔭 I am a problem solver and find feasible solutions
@@ -30,7 +30,7 @@ Waleed Saleem</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/waleed-s/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/waleedjmm">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
